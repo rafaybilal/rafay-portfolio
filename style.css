@@ -1,0 +1,33 @@
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 20px;
+  background-color: #f8f8f8;
+  color: #333;
+}
+header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+.logo {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+}
+h1 {
+  font-size: 2.5em;
+  margin-top: 10px;
+}
+h2 {
+  color: #444;
+}
+.gallery {
+  display: flex;
+  gap: 10px;
+}
+.gallery img {
+  width: 100%;
+  max-width: 200px;
+  border-radius: 10px;
+}
